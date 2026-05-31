@@ -11,13 +11,13 @@ Kaggle — airline_route_profitability dataset covering 7,974 flights across 17 
 
 **Features / Highlights:**
 
-**1. Business Problem 💼**
+**1. Business Problem**
 Airlines operate hundreds of routes simultaneously but struggle to identify which routes are genuinely profitable after accounting for all cost layers — fuel, crew, maintenance, airport fees, catering and overhead. Without a clear visual breakdown, underperforming routes continue to drain resources quietly.
 
-**2. Goal of the Dashboard 🎯**
+**2. Goal of the Dashboard**
 To give route planners, finance teams and operations managers a single-screen view of route-level profitability, cost efficiency and fleet performance — enabling faster, data-backed decisions on pricing, capacity and route continuation.
 
-**3. Key Visuals** 🗝
+**3. Key Visuals**
 - KPI cards at the top give an instant health check — $2.37bn revenue, $575M net profit, 80% load factor.			     
 - Cost breakdown donut shows fuel (60%) and overhead (26%) dominate costs — everything else is minor in comparison.			
 - Route ranking bar chart is the centrepiece — green bars are profitable, red bars are loss-making, sorted so the best 
