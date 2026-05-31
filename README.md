@@ -1,5 +1,5 @@
-**Project Title:** 
-✈ Airline Route Profitability & Cost Analysis
+**Project Title:
+✈ Airline Route Profitability & Cost Analysis**
 
 **Description:** 
 This dashboard analyses the financial performance of airline routes, breaking down where money is made and where it's lost. 
