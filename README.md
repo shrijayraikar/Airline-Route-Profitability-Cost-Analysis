@@ -36,6 +36,7 @@ To give route planners, finance teams and operations managers a single-screen vi
 - Peak season margins are nearly 3x those of Low season — a strong signal to shift capacity and promotional spend heavily toward peak periods.
 - Load factor is consistently above 80% fleet-wide, meaning the revenue problem on loss-making routes is a pricing and cost structure issue, not a demand issue
 
+https://github.com/shrijayraikar/Route-Profitability-Cost-Analysis/blob/4547bf64294406de7a0d59b9ba9163d41e7301ab/DashBoard%20-%20Airline%20Route%20Profitability%20%26%20Cost%20Analysis.PNG
 
 
 
