@@ -34,14 +34,4 @@ To give route planners, finance teams and operations managers a single-screen vi
 - Short Haul routes (DXB-CAI, DXB-JED, DXB-RUH, DXB-AMM) are all loss-making and together represent a significant profit drag — these need urgent pricing review or capacity reduction.	
 - The A380, despite being the costliest aircraft to operate, earns the best margins — proving that high cost is justified when matched to high-demand long-haul routes.
 - Peak season margins are nearly 3x those of Low season — a strong signal to shift capacity and promotional spend heavily toward peak periods.
-- Load factor is consistently above 80% fleet-wide, meaning the revenue problem on loss-making routes is a pricing and cost structure issue, not a demand issue
-
-
-
-
-
-
-
-
-
-
+- Load factor is consistently above 80% fleet-wide, meaning the revenue problem on loss-making routes is a pricing and cost structure issue, not a demand issue.
